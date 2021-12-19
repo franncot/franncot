@@ -1,1 +1,2 @@
-This is another file
+This is another file added for repository
+This is another comment at file 3 for master branch
